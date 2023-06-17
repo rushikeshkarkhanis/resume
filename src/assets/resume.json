@@ -1,0 +1,130 @@
+    {
+        "profile": {
+            "name": "Rushikesh Karkhanis",
+            "role": "Full Stack Developer",
+            "designation": "Technical Specialist",
+            "contact": "+919821792357",
+            "dob": "10th January, 1997",
+            "totalexprience": "5.10 years",
+            "email": "rushi.karkhanis@gmail.com",
+            "location": "Ulwe, Navi Mumbai, India",
+            "linkedIn": "www.linkedin.com/in/rushikeshkarkhanis",
+            "aboutme": "I am Full Stack developer having more than 5.6 years for experience with technologies Java, Spring Boot , AWS, React.Passionate programmer willing to share knowledge and learn any new technologies to solve problems.",
+            "technicalprofiencies": "Java 8 and above, including Spring Boot, functional programming, data structures and algorithms (DSA), multithreading, design patterns, and Spring Data JPA. OAuth authentication. AWS services: Lambda, EC2, VPC, Auto Scaling, SQS, SNS, IAM, SES, and Kinesis.",
+            "workexprience": [
+                {
+                    "id": 1,
+                    "company": "Volkswagen Group IT Services",
+                    "from": "May 2021",
+                    "to": "Present",
+                    "designation": "Technical Specialist",
+                    "project": "MPP - Maintenance Plan Portal is product which ensures the maintenance of the vehicle sold to customer.",
+                    "roles_responsibilities": [
+                        {
+                            "point1": "Analysis, design and implementation of Maintenance Plan Portal",
+                            "point2": "Design and Develop and Enhance services for MPP",
+                            "point3": "Implemented Restful web services by using JAVA 8 and above, Spring Data JPA and Hibernate, AWS JAVA SDK.",
+                            "point4": "Implemented UI for MPP by using React JS, and Redux toolkit for state- management.",
+                            "point5": "Designed Database using ORM comfortable in relationship, mapping and inheritance in Spring data JPA.",
+                            "point6": "Responsible to Performance improvement of apis and RESTful web services Non-blocking, reactive client to perform HTTP requests from Spring Boot and Completable Futures for java apis Developed Lambda for better processing of data to reduce time.",
+                            "point7": "Used Gitlab for version control, to write ci/cd, integrated with AWS"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "company": "CitiusTech Health Care Pvt Limited",
+                    "from": "Oct 2020",
+                    "to": "Apr 2021",
+                    "designation": "Senior Software Engineer",
+                    "project": "LMS - LMS remote care is a health care product which was designed to Designed and Developed LMS remote care according to client requirement.",
+                    "roles_responsibilities": [
+                        {
+                            "point1": "Implemented Apache Kafka for multiple microservices communication",
+                            "point2": "Used AWS java SDK specifically to integrated AWS Secret Manager and AWS S3 Bucket to store static assets (excel files, pdfs)",
+                            "point3": "Used AWS SES service to provide notifications (alarms) to users accessing LMS products",
+                            "point4": "Implemented UI for MPP by using React JS, and Redux toolkit for state- management.",
+                            "point5": "Ensured the code coverage above 90 percent and passed all the quality gates",
+                            "point6": "Familiar in writing JUnit Test cases for the services."
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "company": "Oracle Financial Software Services",
+                    "from": "Jan 2020",
+                    "to": "Oct 2021",
+                    "designation": "Associate Consultant",
+                    "project": "ISSAC - Integrated SWIFT Net Services Access for Citigroup which integrates internal Business application over SWIFT Net for Citibank.",
+                    "roles_responsibilities": [
+                        {
+                            "point1": "Developed POC to integrate Apache Kafka to transfer Interact messages",
+                            "point2": "Involved in implementation Gateway message micro service by using Spring Boot.",
+                            "point3": "Developed a monitoring application for transaction, health check, performance and so on.",
+                            "point4": "Involved in implementation of UI Components in monitoring micro service.",
+                            "point5": "Involved in Unit Testing (Backend and Frontend)."
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "company": "Capgemini India Pvt Limited",
+                    "from": "Sept 2017",
+                    "to": "Jan 2020",
+                    "designation": "Software Engineer",
+                    "projects": [
+                        {
+                            "project1": "Automation application (Meronova) - This was a web-based application database. It was also used to manipulation large number of data sets."
+                        },
+                        {
+                            "project2": "Stunsistus application - This was SSO application developed in SpringBoot, Spring Security to acts as Authentication and Authorization for underlying 13 applications owned by SOK"
+                        }
+                    ],
+                    "roles_responsibilities": [
+                        {
+                            "point1": "Implemented Apache Kafka for multiple microservices communication",
+                            "point2": "Used AWS java SDK specifically to integrated AWS Secret Manager and AWS S3 Bucket to store static assets (excel files, pdfs)",
+                            "point3": "Used AWS SES service to provide notifications (alarms) to users accessing LMS products",
+                            "point4": "Implemented UI for MPP by using React JS, and Redux toolkit for state- management.",
+                            "point5": "Ensured the code coverage above 90 percent and passed all the quality gates",
+                            "point6": "Familiar in writing JUnit Test cases for the services."
+                        }
+                    ]
+                }
+            ],
+            "education": [
+                {
+                    "id": 1,
+                    "year": "2014-2017",
+                    "course": "Bachelor of Sceince - Information Technology",
+                    "institution": "Vidyalankar School of Information Technology, Mumbai University"
+                },
+                {
+                    "id": 2,
+                    "year": "2012-2014",
+                    "course": "Secondary School Certificate",
+                    "institution": "Guru Nanak Khalsa College , Maharashtra State Board"
+                },
+                {
+                    "id": 3,
+                    "year": "2002-2012",
+                    "course": "Higher Secondary School Certificate",
+                    "institution": "Don Bosco High School, Maharashtra State Board"
+                }
+            ],
+            "rewards": [
+                {
+                    "id": 1,
+                    "when": "Q2 2022",
+                    "company": "VWITS",
+                    "which": "Best Innovator Annual Award"
+                },
+                {
+                    "id": 2,
+                    "when": "Q4 2021",
+                    "company": "VWITS",
+                    "which": "Debutant award"
+                }
+            ]
+        }
+    }
