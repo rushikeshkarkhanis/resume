@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/resume/static/js/main.8af0ce2c.js",
+    "main.js": "/resume/static/js/main.5a2eb1db.js",
     "static/media/profile-photo.JPG": "/resume/static/media/profile-photo.064530d35edbf5564ec7.JPG",
     "static/media/Rushikesh-Karkhanis.pdf": "/resume/static/media/Rushikesh-Karkhanis.c207285639d2d7ac1b5e.pdf",
     "index.html": "/resume/index.html",
-    "main.8af0ce2c.js.map": "/resume/static/js/main.8af0ce2c.js.map"
+    "main.5a2eb1db.js.map": "/resume/static/js/main.5a2eb1db.js.map"
   },
   "entrypoints": [
-    "static/js/main.8af0ce2c.js"
+    "static/js/main.5a2eb1db.js"
   ]
 }
