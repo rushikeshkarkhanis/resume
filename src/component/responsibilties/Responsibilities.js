@@ -6,8 +6,11 @@ function Responsibilities({ responsbilities }) {
     return (
         <>
             {responsbilities.map((responsibility, i) => (
-                <Responsibility key={i} responsibility={responsibility} />
+                <>
+                    <Responsibility key={i} responsibility={responsibility} />
+                </>
             ))}
+            <hr />
         </>
     );
 }
