@@ -8,88 +8,94 @@ const Skills = () => {
           <i className="fa fa-asterisk fa-fw w3-margin-right w3-text-blue-grey"></i>Skills
         </b>
       </p>
-      <p>Html5</p>
+      <p>Java</p>
+      <div className="w3-light-grey w3-round-xlarge w3-small">
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "95%" }}>
+          95%
+        </div>
+      </div>
+      <p>DSA</p>
+      <div className="w3-light-grey w3-round-xlarge w3-small">
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "80%" }}>
+          80%
+        </div>
+      </div>
+      <p>Spring Boot</p>
+      <div className="w3-light-grey w3-round-xlarge w3-small">
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "90%" }}>
+          90%
+        </div>
+      </div>
+      <p>Mircorservices</p>
+      <div className="w3-light-grey w3-round-xlarge w3-small">
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "90%" }}>
+          90%
+        </div>
+      </div>
+      <p>Functional Programming</p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
         <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "85%" }}>
           85%
         </div>
       </div>
-      <p>CSS3</p>
+      <p>React</p>
+      <div className="w3-light-grey w3-round-xlarge w3-small">
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "70%" }}>
+          80%
+        </div>
+      </div>
+      <p>Angular 4 and above</p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
         <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "80%" }}>
           80%
         </div>
       </div>
-      <p>JavaScript</p>
-      <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "70%" }}>
-          70%
-        </div>
-      </div>
-      <p>jQuery</p>
-      <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "65%" }}>
-          65%
-        </div>
-      </div>
-      <p>PHP</p>
-      <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "70%" }}>
-          70%
-        </div>
-      </div>
-      <p>Bootstrap 3</p>
-      <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "80%" }}>
-          80%
-        </div>
-      </div>
-      <p>Bootstrap 4</p>
-      <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "70%" }}>
-          80%
-        </div>
-      </div>
-      <p>W3.CSS</p>
-      <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "70%" }}>
-          70%
-        </div>
-      </div>
-      <p>MySQL</p>
+      <p>Spring Security</p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
         <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "75%" }}>
           75%
         </div>
       </div>
-      <p>Opencart</p>
+      <p>Restful Webservices</p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "40%" }}>
-          40%
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "90%" }}>
+          90%
         </div>
       </div>
-      <p>Ajax</p>
+      <p>Spring Data JPA</p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "60%" }}>
-          60%
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "95%" }}>
+          95%
+        </div>
+      </div>
+      <p>Oauth</p>
+      <div className="w3-light-grey w3-round-xlarge w3-small">
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "70%" }}>
+          70%
+        </div>
+      </div>
+      <p>Unit testing</p>
+      <div className="w3-light-grey w3-round-xlarge w3-small">
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "80%" }}>
+          80%
         </div>
       </div>
       <p>Python</p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "50%" }}>
-          50%
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "80%" }}>
+          80%
         </div>
       </div>
-      <p>Flask</p>
+      <p>Multithreading</p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "60%" }}>
-          60%
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "75%" }}>
+          75%
         </div>
       </div>
-      <p>React</p>
+      <p>AWS Services- Lamdba, EC2, VPC, Auto Scaling, SQS, SNS, IAM, SES, Kenesis. Python (AWS - Lambda)</p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "50%" }}>
-          50%
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "80%" }}>
+          80%
         </div>
       </div>
     </>
