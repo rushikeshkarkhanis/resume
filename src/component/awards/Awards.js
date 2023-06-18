@@ -8,8 +8,6 @@ function Awards({ resume }) {
                     <i className="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-blue-grey"></i>Awards
                 </h2>
                 <div class="w3-row-padding">
-
-
                     {resume.resumeData.profile.rewards.map((rwd, i) => {
                         return (
                             <>
@@ -28,8 +26,6 @@ function Awards({ resume }) {
                             </>
                         );
                     })
-
-
                     }</div>
             </div>
         </>
