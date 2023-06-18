@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.ba7abe90.css","mappings":"AAAE,kBACE,cAAe,CAAM,aAAoB","sources":["component/footer/footer.css"],"sourcesContent":["  .footer-section a {      \n    font-size: 2rem;     margin:  0px  10px  }"],"names":[],"sourceRoot":""}
